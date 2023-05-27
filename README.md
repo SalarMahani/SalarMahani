@@ -1,4 +1,4 @@
-# My Journey:
+# My Journey
 Adventure in Development: Seeking Collaborative Web Opportunities
 
 # Proficiencies at a Glance:
