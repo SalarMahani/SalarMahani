@@ -6,7 +6,7 @@ Adventure in Development: Seeking Collaborative Web Opportunities
  <br />
   <h1> How to reach me: </h1>
 <p>
- <a href="mailto:mehrimahani.salar@mail.com">
+ <a href="mailto:salar.m.mahani@mail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a> 
  <br />
