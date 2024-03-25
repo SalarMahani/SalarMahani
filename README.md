@@ -3,7 +3,7 @@ Adventure in Development: Seeking Collaborative Web Opportunities
 
 
 # Proficiencies at a Glance:
-<a href="#"> <img src="https://skillicons.dev/icons?i=js,react,python,nodejs,express,xd,git,theme=dark"/> </a>
+<a href="#"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,xd,git,theme=dark"/> </a>
  <br />
   <h1> How to reach me: </h1>
 <p>
