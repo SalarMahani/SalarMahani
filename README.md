@@ -3,7 +3,10 @@ Adventure in Development: Seeking Collaborative Web Opportunities
 
 
 # Proficiencies at a Glance:
-<a href="#"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,xd,git,theme=dark"/> </a>
+## Programming:
+<a href="#"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,sass,tailwind,git,theme=dark"/> </a>
+## Designing: 
+<a href="#"> <img src="https://skillicons.dev/icons?i=ai,ps,xd,theme=dark"/> </a>
  <br />
   <h1> How to reach me: </h1>
 <p>
