@@ -5,10 +5,7 @@ Adventure in Development :
 
  <br />
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,sass&theme=dark)](https://skillicons.dev)
  
-<a href="#"> <img https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) theme=dark"/></a>
  <br />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
