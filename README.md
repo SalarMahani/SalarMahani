@@ -9,6 +9,6 @@ Adventure in Development :
 
 
  
-<a href="#"> <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,sass,nodejs,express,mongodb,theme=dark"/></a>
+<a href="#"> <img src="https://skillicons.dev/icons?i= ts,js,nextjs,react,tailwind,sass,theme=dark"/></a>
  <br />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
