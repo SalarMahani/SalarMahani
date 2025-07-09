@@ -7,14 +7,14 @@ Adventure in Development:
 **Languages:**  
 JavaScript, TypeScript ,Python
 
-**Markup & Styling:**  
-HTML5, CSS3, Sass,  Tailwind CSS, CSS Modules, Styled Components
+**Frameworks:**  
+Next.js
 
 **UI Libraries:**  
 React, Redux Toolkit, Context API, React Router, React Query, Leaflet
 
-**Frameworks:**  
-Next.js
+**Markup & Styling:**  
+HTML5, CSS3, Sass,  Tailwind CSS, CSS Modules, Styled Components
 
 **Authentication & Backend:**  
 NextAuth.js, Supabase
