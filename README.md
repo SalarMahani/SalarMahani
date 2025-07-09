@@ -16,12 +16,11 @@ React, Redux Toolkit, Context API, React Router, React Query, Leaflet
 **Frameworks:**  
 Next.js
 
+**Authentication & Backend:**  
+NextAuth.js, Supabase
 
 **Tools & Platforms:**  
 Docker, Figma,  Git, Vim
-
-**Authentication & Backend:**  
-NextAuth.js, Supabase
 
 **Other Utilities:**  
 Date Picker libraries (e.g. React DatePicker)
