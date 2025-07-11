@@ -20,7 +20,7 @@ HTML5, CSS3, Sass,  Tailwind CSS, CSS Modules, Styled Components
 NextAuth.js, Supabase
 
 **Tools & Platforms:**  
-Docker, Figma,  Git, Vim
+Docker, Git, Vim
 
 **Other Utilities:**  
 Date Picker libraries (e.g. React DatePicker)
@@ -33,7 +33,7 @@ Date Picker libraries (e.g. React DatePicker)
 Node.js, Express.js, MongoDB, MySQL
 
 **Design Tools:**  
-Adobe Photoshop, Adobe Illustrator
+Adobe Photoshop, Adobe Illustrator, Figma
 
 ---
 ## Key Projects
