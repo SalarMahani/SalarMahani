@@ -10,8 +10,20 @@ JavaScript, TypeScript ,Python
 **Frameworks:**  
 Next.js
 
-**UI Libraries:**  
-React, Redux Toolkit, Context API, React Router, React Query, Leaflet
+**UI Library:**  
+React
+
+**State Management:**  
+Redux Toolkit, Context API, useReducer	
+
+**Routing:**  
+React Router
+
+**Data Fetching & Caching:**  
+React Query
+
+**Maps & Visualization:**  
+Leaflet
 
 **Markup & Styling:**  
 HTML5, CSS3, Sass,  Tailwind CSS, CSS Modules, Styled Components
