@@ -22,9 +22,6 @@ NextAuth.js, Supabase
 **Tools & Platforms:**  
 Docker, Git, Vim
 
-**Other Utilities:**  
-Date Picker libraries (e.g. React DatePicker)
-
 
 ---
 ## Familiar With
