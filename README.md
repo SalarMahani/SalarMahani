@@ -26,7 +26,7 @@ React Query
 Leaflet
 
 **Markup & Styling:**  
-HTML5, CSS3, Sass,  Tailwind CSS, CSS Modules, Styled Components
+HTML5, CSS3, Tailwind, Sass, CSS, CSS Modules, Styled Components
 
 **Authentication & Backend:**  
 NextAuth.js, Supabase
