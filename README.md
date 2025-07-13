@@ -1,50 +1,103 @@
 # My Journey
 Adventure in Development:
+<br/>
 
 
 ## Technical Skills
+<table>
+  <tr>
+    <td>
+      <br>
+      <strong>Languages:</strong>
+      &nbsp;&nbsp;&nbsp;JavaScript, TypeScript
+      <br><br>
+    </td>
+    <td>
+      <br>
+      <strong>Frameworks:</strong>
+      &nbsp;&nbsp;&nbsp;Next.js
+      <br><br>
+    </td>
+    <td>
+      <br>
+      <strong>UI Library:</strong>
+      &nbsp;&nbsp;&nbsp;React
+      <br><br>
+    </td>   
+  
 
-**Languages:**  
-JavaScript, TypeScript ,Python
+  </tr>
 
-**Frameworks:**  
-Next.js
+  <tr>
+    <td>
+      <br>
+      <strong>State Management:</strong>
+      &nbsp;&nbsp;&nbsp;Redux Toolkit, Context API, useReducer
+    </td>
+    <td>
+      <strong>Routing:</strong>
+      &nbsp;&nbsp;&nbsp;React Router
+    </td>
+    <td>
+      <br>
+      <strong>Data Fetching & Caching:</strong>
+      &nbsp;&nbsp;&nbsp;React Query
+      <br><br>
+    </td>
+  </tr>
 
-**UI Library:**  
-React
+  <tr>
+    <td>
+      <strong>Maps & Visualization:</strong>
+      &nbsp;&nbsp;&nbsp;Leaflet
+      <br>
+    </td>
+    <td>
+      <strong>Markup & Styling:</strong>
+      &nbsp;&nbsp;&nbsp;HTML, CSS, Tailwind, Sass, CSS Modules, Styled Components
+      <br>
+    </td>
+    <td>
+      <br>
+      <strong>Authentication & Backend:</strong>
+      &nbsp;&nbsp;&nbsp;NextAuth.js, Supabase
+      <br><br>
+    </td>
+  </tr>
 
-**State Management:**  
-Redux Toolkit, Context API, useReducer	
-
-**Routing:**  
-React Router
-
-**Data Fetching & Caching:**  
-React Query
-
-**Maps & Visualization:**  
-Leaflet
-
-**Markup & Styling:**  
-HTML, CSS, Tailwind, Sass, CSS, CSS Modules, Styled Components
-
-**Authentication & Backend:**  
-NextAuth.js, Supabase
-
-**Tools & Platforms:**  
-Docker, Git, Vim
+  <tr>
+    <td colspan="3"><br>
+      <strong>Development Tools:</strong>
+      &nbsp;&nbsp;&nbsp;Docker, Git, Vim
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 
----
+
+
 ## Familiar With
-
-**Backend & Databases:**  
+<table>
+  <tr>
+    <td>
+      <br>
+      Backend & Databases:  
 Node.js, Express.js, MongoDB, MySQL
-
-**Design Tools:**  
+    <br> <br>
+    </td>
+    <td>
+      <br>
+      Design Tools:  
 Adobe Photoshop, Adobe Illustrator, Figma
+    <br> <br>
+    </td>
+  </tr>
+</table>
 
----
+
+<br/>
+
 ## Key Projects
 
 ### 📌 [Two Truths and a Lie Telegram Bot](https://github.com/your-username/telegram-game-bot)
