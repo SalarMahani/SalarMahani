@@ -100,25 +100,24 @@ Adobe Photoshop, Adobe Illustrator, Figma
 
 ## Key Projects
 
-### 📌 [Two Truths and a Lie Telegram Bot](https://github.com/your-username/telegram-game-bot)
-A multiplayer party game bot built for Telegram.  
-**Tech:** Node.js, Telegraf, Replit, UptimeRobot  
-**Features:** Realtime gameplay, user session tracking, random question generator.
+### 📌 [cabin-booking](https://github.com/SalarMahani/cabin-booking)
+this project lets users explore cabins, filter by capacity, and book stays through interface.
+Users can log in with their Google account, view their bookings, edit existing reservations, and book new stays using a calendar-based interface.
 
-### 📌 [Wild West Board Game (WIP)](https://github.com/your-username/wild-west-board-game)
-An open-world, turn-based strategy board game built from scratch.  
-**Tech:** JavaScript, HTML Canvas, Custom game engine  
-**Highlights:** Dice mechanics, card interactions, power-ups, and hidden missions.
+### 📌 [online-Pizza-app](https://github.com/SalarMahani/online-Pizza-app)
+Users can place orders by choosing pizzas, setting their delivery details, and marking their order as priority—all without creating an account.
 
-### 📌 [Portfolio Website](https://your-portfolio-link.com)
-My personal portfolio to showcase my projects and skills.  
-**Tech:** React, Tailwind CSS, Vite  
-**Highlights:** Responsive layout, smooth animations, dark/light mode
 
----
+### 📌 [worldwise](https://github.com/SalarMahani/worldwise)
+It lets users mark cities they’ve visited, store notes, and visualize locations on a map — all in a clean and modern interface.
+
+
+### 📌 [book-session](https://github.com/SalarMahani/book-session)
+this project demonstrates fundamental concepts like props, state, forms, and TypeScript types in a real-world UI.
 
 
 
+<br>
 ## Contact Me
 
 - **Email:** salar.m.mahani@gmail.com
