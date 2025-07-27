@@ -60,7 +60,7 @@ Adventure in Development:
     <td>
       <br>
       <strong>Authentication & Backend:</strong>
-      &nbsp;&nbsp;&nbsp;NextAuth.js, Supabase
+      &nbsp;&nbsp;&nbsp;NextAuth.js, zod, Supabase
       <br><br>
     </td>
   </tr>
