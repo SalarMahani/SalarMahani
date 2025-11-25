@@ -55,7 +55,7 @@ Adventure in Development:
     </td>
     <td>
       <strong>Markup & Styling:</strong>
-      &nbsp;&nbsp;&nbsp;HTML, CSS, Tailwind, Sass, CSS Modules, Styled Components
+      &nbsp;&nbsp;&nbsp;HTML, CSS, Tailwind, Shadcn, MUI ,Sass, CSS Modules, Styled Components
       <br>
     </td>
     <td>
@@ -69,7 +69,7 @@ Adventure in Development:
   <tr>
     <td colspan="3"><br>
       <strong>Development Tools:</strong>
-      &nbsp;&nbsp;&nbsp;Docker, Git, Vim
+      &nbsp;&nbsp;&nbsp;i18, Docker, Git, Vim
       <br><br>
     </td>
   </tr>
@@ -104,6 +104,9 @@ Adobe Photoshop, Adobe Illustrator, Figma
 ### 📌 [cabin-booking](https://github.com/SalarMahani/cabin-booking)
 this project lets users explore cabins, filter by capacity, and book stays through interface.
 Users can log in with their Google account, view their bookings, edit existing reservations, and book new stays using a calendar-based interface.
+
+### 📌 [Weather Dashboard App](https://github.com/SalarMahani/weather-dashboard)
+A multilingual, theme-aware, responsive weather dashboard built with React, TypeScript, MUI, i18next, and OpenWeather APIs.
 
 ### 📌 [online-Pizza-app](https://github.com/SalarMahani/online-Pizza-app)
 Users can place orders by choosing pizzas, setting their delivery details, and marking their order as priority—all without creating an account.
