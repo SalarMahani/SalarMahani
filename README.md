@@ -1,5 +1,7 @@
 # My Journey
-Adventure in Development: a frontend explorer currently exploring the world of React and Next.js.
+Adventure in Development:
+<br />
+an explorer currently exploring the world of React and Next.js.
 <br/>
 
 
