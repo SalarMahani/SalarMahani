@@ -6,7 +6,7 @@ an explorer currently exploring the world of React and Next.js.
 
 
 ## Key Projects
-### 📌 [[next-auth.js](https://github.com/SalarMahani/next-auth.js)
+### 📌 [next-auth.js](https://github.com/SalarMahani/next-auth.js)
 An authentication system built with Next.js and TypeScript, focused on auth patterns.
 
 
