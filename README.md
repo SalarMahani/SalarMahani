@@ -26,10 +26,6 @@ Users can place orders by choosing pizzas, setting their delivery details, and m
 It lets users mark cities they’ve visited, store notes, and visualize locations on a map — all in a clean and modern interface.
 
 
-### 📌 [book-session](https://github.com/SalarMahani/book-session)
-this project demonstrates fundamental concepts like props, state, forms, and TypeScript types in a real-world UI.
-
-
 
 <br>
 
