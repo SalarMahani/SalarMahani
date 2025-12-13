@@ -6,10 +6,14 @@ an explorer currently exploring the world of React and Next.js.
 
 
 ## Key Projects
+### 📌 [[next-auth.js](https://github.com/SalarMahani/next-auth.js)
+An authentication system built with Next.js and TypeScript, focused on auth patterns.
+
 
 ### 📌 [cabin-booking](https://github.com/SalarMahani/cabin-booking)
 this project lets users explore cabins, filter by capacity, and book stays through interface.
 Users can log in with their Google account, view their bookings, edit existing reservations, and book new stays using a calendar-based interface.
+
 
 ### 📌 [Weather Dashboard App](https://github.com/SalarMahani/weather-dashboard)
 A multilingual, theme-aware, responsive weather dashboard built with React, TypeScript, MUI, i18next, and OpenWeather APIs.
